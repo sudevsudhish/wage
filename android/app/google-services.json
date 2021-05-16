@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815370129367",
+    "firebase_url": "https://wage-4039b-default-rtdb.firebaseio.com",
+    "project_id": "wage-4039b",
+    "storage_bucket": "wage-4039b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815370129367:android:cf2daa4d766bbd07da8592",
+        "android_client_info": {
+          "package_name": "com.example.wage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815370129367-1sl75amdlif6ubeolj9brjs1nqtbtsrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wage",
+            "certificate_hash": "1da8872730195b731db7c7d5fb95df28403d663f"
+          }
+        },
+        {
+          "client_id": "815370129367-7scuv169ldrffpksmi7fn1l3ct4bgnuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGd_XbhwGm9nyy7HH5gzv-yXgrZwgKD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815370129367-7scuv169ldrffpksmi7fn1l3ct4bgnuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
